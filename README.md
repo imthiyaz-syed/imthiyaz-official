@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Syed Imthiyaz
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&width=600&lines=AI%2FML+Enthusiast;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
 </div>
 
 ---
