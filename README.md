@@ -1,19 +1,31 @@
 # 👋 Hey, I'm Syed Imthiyaz
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&width=600&lines=Data+Analyst;Data+Science+Enthusiast;AI%2FML+Enthusiast;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&width=650&lines=Data+Analyst;Data+Science+Enthusiast;AI%2FML+Practitioner;Problem+Solver;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
+
+<p align="center">
+📌 Turning data into insights and AI ideas into production-ready solutions.
+</p>
 
 ---
 
 ## 💻 About Me
 
-📊 Data Analyst | Data Science Enthusiast | Python | SQL | Data-driven problem solver
+📊 **Data Analyst | Data Science Enthusiast | Python | SQL**
 
-- 🎓 **Education**: Viswam Engineering College, Andhra Pradesh
-- 🔧 **Specialization**: Full-stack development, AI/ML integration, computer vision
-- 🚀 **Current Focus**: Advanced Python, LangChain/LangGraph, AWS, and system design
+- 🎓 **Education**: B.Tech CSE – Viswam Engineering College, Andhra Pradesh (2026)
+- 🔧 **Expertise**: Data analysis, machine learning, full-stack basics, computer vision
+- 🚀 **Current Focus**: Advanced Python, LangChain/LangGraph, AWS, system design
 - 🏆 **Interests**: Coding competitions (TCS CodeVita), cryptography, network security
+
+---
+
+## 🔍 What I'm Looking For
+
+- 📌 Data Analyst / Data Science Intern / Entry-Level roles  
+- 🏢 Analytics-driven & product-based companies  
+- 🤝 Real-world projects, mentorship, and continuous learning  
 
 ---
 
@@ -29,7 +41,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI/ML & Data Science
+### AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,58 +57,81 @@
 
 ---
 
-## 🎯 Featured Projects
+## ⭐ Top Projects (Pinned)
 
-### 🤚 Hand Tracking Assignment
-**Real-time hand detection and tracking using classical computer vision**
-- 🔧 Technologies: Python, OpenCV, NumPy
-- 📊 Features: Virtual boundary detection, distance-based states, DANGER alerts
-- ⭐ Perfect for: Internship portfolio, CV/gesture recognition applications
+### 🥇 AI Resume Analyzer
+**AI-powered resume parsing & ATS optimization**
+- ❓ *Problem Solved:* Manual resume screening is slow and inconsistent
+- 🔧 Tech: Python, NLP, TensorFlow
+- 📊 Features: Skill extraction, ATS score, resume insights
+- 🎯 Impact: Helps candidates improve shortlisting chances
 
-### 🤖 AI Resume Analyzer
-**Intelligent resume parsing and analysis system with AI-powered feedback**
-- 🔧 Technologies: Python, NLP, TensorFlow
-- 📊 Features: Resume parsing, skill extraction, ATS optimization suggestions
-- ⭐ Impact: Helps candidates optimize their resumes for ATS systems
+---
 
-### 🍽️ Smart Diet Recommendation System
-**ML-based personalized diet recommendations with health analytics**
-- 🔧 Technologies: Python, Machine Learning, Data Analysis
-- 📊 Features: Personalized recommendations, nutritional analysis, health tracking
-- ⭐ Impact: Promotes healthy lifestyle choices through data-driven insights
+### 🥈 Hand Tracking System
+**Real-time hand detection using computer vision**
+- ❓ *Problem Solved:* Need for touch-free gesture-based interaction
+- 🔧 Tech: Python, OpenCV, NumPy
+- 📊 Features: Distance-based states, danger alerts, virtual boundaries
+- 🎯 Use Case: Gesture control, CV research, HCI systems
+
+---
+
+### 🥉 Smart Diet Recommendation System
+**ML-based personalized diet suggestions**
+- ❓ *Problem Solved:* Generic diet plans ignore individual needs
+- 🔧 Tech: Python, Machine Learning, Data Analysis
+- 📊 Features: Nutrition analysis, personalized recommendations
+- 🎯 Impact: Data-driven healthy lifestyle guidance
+
+---
+
+## 📊 Other Projects
 
 ### 📊 Academic Performance Tracker
-**Interactive dashboard for tracking and analyzing academic performance**
-- 🔧 Technologies: HTML, CSS, JavaScript
-- 📊 Features: Real-time tracking, progress visualization, performance analytics
-- ⭐ Impact: Helps students monitor and improve their academic progress
+- Tech: HTML, CSS, JavaScript  
+- Features: Performance analytics, progress visualization  
+- Impact: Helps students track academic growth  
 
 ### 📈 Trader Behavior Insights
-**Data analysis of trading patterns and behavioral economics**
-- 🔧 Technologies: Python, Jupyter Notebook, Data Science
-- 📊 Features: Trading pattern analysis, behavioral insights, market trends
-- ⭐ Impact: Valuable insights for algorithmic trading and market research
+- Tech: Python, Jupyter Notebook  
+- Features: Trading pattern analysis, behavioral insights  
+- Impact: Useful for market research & algorithmic trading  
+
+---
+
+## 🧪 Skills in Action
+
+- 📌 Analyzed datasets using **Pandas, NumPy, SQL**
+- 📌 Built **ML pipelines** for prediction & recommendations
+- 📌 Applied **OpenCV** for real-time computer vision tasks
+- 📌 Developed dashboards & apps using **Streamlit & web tech**
+- 📌 Used **Git & Docker** for version control and deployment basics
 
 ---
 
 ## 📊 GitHub Statistics
 
+<p align="center">
+📈 Consistency over time — learning, building, improving
+</p>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
 ## 🎓 Learning & Development
 
-- 📚 Currently mastering: **Advanced Python**, **System Design**, **LangChain/LangGraph**
-- 🔄 Preparing for: **Technical interviews**, **Coding competitions (TCS CodeVita)**
-- 🌱 Growing expertise in: **Cloud computing (AWS)**, **Cryptography**, **Security architecture**
+- 📚 Mastering: **Advanced Python, System Design, LangChain/LangGraph**
+- 🔄 Preparing for: **Technical interviews & coding competitions**
+- 🌱 Exploring: **AWS, Cryptography, Security Architecture**
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -111,17 +146,12 @@
 
 ## 💡 Quick Facts
 
-- ✨ **123+ contributions** in the last year
-- 🎖️ Earned the "Quickdraw" achievement on GitHub
-- 🔗 **1 follower** (help me grow the community!)
-- 💪 Building projects that matter and learning every day
-
----
+- ✨ 120+ contributions in the last year  
+- 🌱 Early-stage creator — building consistently and growing fast  
+- 💪 Focused on solving real-world problems with data & AI  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imthiyaz-official&color=00D4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imthiyaz-official&color=00D4FF&style=flat-square" />
   
-  **⭐ Star my repositories if you find them useful! It helps a lot! ⭐**
-  
-  <img src="https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square" alt="Status" />
+  ⭐ Star my repositories if you find them useful — it really helps!
 </div>
