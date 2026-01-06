@@ -1,42 +1,31 @@
 # 👋 Hey, I'm Syed Imthiyaz
 
-✔ Turning data into insights and AI ideas into production-ready solutions.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&width=650&lines=Data+Analyst;Data+Science+Enthusiast;AI%2FML+Practitioner;Problem+Solver;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</div>
 
-<style>
-  @keyframes pulse {
-    0% { opacity: 0.3; }
-    50% { opacity: 1; }
-    100% { opacity: 0.3; }
-  }
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  @keyframes glow {
-    0% { box-shadow: 0 0 5px #00D4FF; }
-    50% { box-shadow: 0 0 20px #00D4FF; }
-    100% { box-shadow: 0 0 5px #00D4FF; }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  .stats-card {
-    animation: fadeIn 1s ease-out;
-  }
-</style>
+<p align="center">
+📌 Turning data into insights and AI ideas into production-ready solutions.
+</p>
 
 ---
 
 ## 💻 About Me
 
-### 📊 Data Analyst | Data Science Enthusiast | Python | SQL
+📊 **Data Analyst | Data Science Enthusiast | Python | SQL**
 
 - 🎓 **Education**: B.Tech CSE – Viswam Engineering College, Andhra Pradesh (2026)
 - 🔧 **Expertise**: Data analysis, machine learning, full-stack basics, computer vision
 - 🚀 **Current Focus**: Advanced Python, LangChain/LangGraph, AWS, system design
 - 🏆 **Interests**: Coding competitions (TCS CodeVita), cryptography, network security
+
+---
+
+## 🔍 What I'm Looking For
+
+- 📌 Data Analyst / Data Science Intern / Entry-Level roles  
+- 🏢 Analytics-driven & product-based companies  
+- 🤝 Real-world projects, mentorship, and continuous learning  
 
 ---
 
@@ -49,6 +38,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI / ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -56,34 +47,66 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-## 🔍 What I'm Looking For
-
-- 📌 Data Analyst / Data Science Intern / Entry-Level roles  
-- 🏢 Analytics-driven & product-based companies  
-- 🤝 Real-world projects, mentorship, and continuous learning  
-
----
-
-## ⭐ Top Projects
+## ⭐ Top Projects (Pinned)
 
 ### 🥇 AI Resume Analyzer
 **AI-powered resume parsing & ATS optimization**
-- Tech: Python, NLP, TensorFlow
-- Features: Skill extraction, ATS score, resume insights
+- ❓ *Problem Solved:* Manual resume screening is slow and inconsistent
+- 🔧 Tech: Python, NLP, TensorFlow
+- 📊 Features: Skill extraction, ATS score, resume insights
+- 🎯 Impact: Helps candidates improve shortlisting chances
+
+---
 
 ### 🥈 Hand Tracking System
 **Real-time hand detection using computer vision**
-- Tech: Python, OpenCV, NumPy
-- Features: Distance-based states, gesture control
+- ❓ *Problem Solved:* Need for touch-free gesture-based interaction
+- 🔧 Tech: Python, OpenCV, NumPy
+- 📊 Features: Distance-based states, danger alerts, virtual boundaries
+- 🎯 Use Case: Gesture control, CV research, HCI systems
+
+---
 
 ### 🥉 Smart Diet Recommendation System
 **ML-based personalized diet suggestions**
-- Tech: Python, Machine Learning, Data Analysis
-- Features: Nutrition analysis, personalized recommendations
+- ❓ *Problem Solved:* Generic diet plans ignore individual needs
+- 🔧 Tech: Python, Machine Learning, Data Analysis
+- 📊 Features: Nutrition analysis, personalized recommendations
+- 🎯 Impact: Data-driven healthy lifestyle guidance
+
+---
+
+## 📊 Other Projects
+
+### 📊 Academic Performance Tracker
+- Tech: HTML, CSS, JavaScript  
+- Features: Performance analytics, progress visualization  
+- Impact: Helps students track academic growth  
+
+### 📈 Trader Behavior Insights
+- Tech: Python, Jupyter Notebook  
+- Features: Trading pattern analysis, behavioral insights  
+- Impact: Useful for market research & algorithmic trading  
+
+---
+
+## 🧪 Skills in Action
+
+- 📌 Analyzed datasets using **Pandas, NumPy, SQL**
+- 📌 Built **ML pipelines** for prediction & recommendations
+- 📌 Applied **OpenCV** for real-time computer vision tasks
+- 📌 Developed dashboards & apps using **Streamlit & web tech**
+- 📌 Used **Git & Docker** for version control and deployment basics
 
 ---
 
@@ -98,34 +121,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
-## 🔄 Activity Stream
+## 🎓 Learning & Development
 
-<div style="width: 100%; background: #1a1a2e; border-radius: 10px; padding: 15px; animation: fadeIn 1.5s ease-out;">
-  <div style="margin: 10px 0;">
-    <div style="display: flex; justify-content: space-between;">
-      <span>Code Contributions</span>
-      <span>85%</span>
-    </div>
-    <div style="width: 100%; height: 8px; background: #16213e; border-radius: 4px; overflow: hidden;">
-      <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #00D4FF, #0099CC); border-radius: 4px;"></div>
-    </div>
-  </div>
-  <div style="margin: 10px 0;">
-    <div style="display: flex; justify-content: space-between;">
-      <span>Project Development</span>
-      <span>75%</span>
-    </div>
-    <div style="width: 100%; height: 8px; background: #16213e; border-radius: 4px; overflow: hidden;">
-      <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #00D4FF, #0099CC); border-radius: 4px;"></div>
-    </div>
-  </div>
-</div>
+- 📚 Mastering: **Advanced Python, System Design, LangChain/LangGraph**
+- 🔄 Preparing for: **Technical interviews & coding competitions**
+- 🌱 Exploring: **AWS, Cryptography, Security Architecture**
 
 ---
 
@@ -136,13 +138,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-imthiyaz-9a8a52305)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedimthiyaz456@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthiyaz-official)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white)](https://imthiyaz.dev)
 
 </div>
 
 ---
 
+## 💡 Quick Facts
+
+- ✨ 120+ contributions in the last year  
+- 🌱 Early-stage creator — building consistently and growing fast  
+- 💪 Focused on solving real-world problems with data & AI  
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imthiyaz-official&color=00D4FF&style=flat-square" />
   
-  ⭐ Star my repositories if you find them useful!
+  ⭐ Star my repositories if you find them useful — it really helps!
 </div>
+ create some animations in github repo for for profile professional
