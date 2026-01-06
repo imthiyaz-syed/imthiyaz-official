@@ -118,8 +118,8 @@
 
 <div align="center">
   <!-- Option 1: Tokyo Night Theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-README-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-README-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
   
   <!-- Option 2: Dark Theme -->
   <!--
