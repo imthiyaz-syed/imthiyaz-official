@@ -112,29 +112,23 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-    📈 Consistency over time — learning, building, improving
-</p>
+- 📈 Consistency over time — learning, building, improving
 
 <div align="center">
-    <!-- GitHub Stats -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    
-    <!-- Top Languages -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<div align="center">
-    <!-- GitHub Streak -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-    <!-- Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyaz-official&theme=github-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
+
+## ⚡ GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+</div>
 
 ## 🎓 Learning & Development
 
